@@ -1,4 +1,6 @@
+# defining variable x with string, inside string interpolating the number 10 into place holder
 x = "There are %d types of people." % 10
+# defining variable with string
 binary = "binary"
 do_not = "don't"
 y = "Those who know %s and those who %s." % (binary, do_not)
